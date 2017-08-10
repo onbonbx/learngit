@@ -4,3 +4,5 @@ this is th 2nd line
 4th line
 git is a good vcs.
 I love git, what about you?
+git tracks changes
+git is good haha
