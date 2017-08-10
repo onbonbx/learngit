@@ -3,3 +3,4 @@ this is th 2nd line
 3rd line
 4th line
 git is a good vcs.
+I love git, what about you?
