@@ -13,4 +13,4 @@ creating a new branch now.
 ff test: changes on master
 fast-forward mode test
 ff mode test : change on "dev" branch
-ff mode test 2: change on master
+ff mode test 2: change on master and dev
