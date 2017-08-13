@@ -12,3 +12,4 @@ this is the first change on the dev branch
 creating a new branch now.
 ff test: changes on master
 fast-forward mode test
+ff mode test : change on "dev" branch
